@@ -42,8 +42,8 @@ workouts = {
         "exercises": [
             "Basic Jump Rope",
             "High Knees",
-            "Side-to-Side Jumps",
             "Boxer Step",
+           
             ],
         },
     "Thursday": {
@@ -82,8 +82,8 @@ workouts = {
         "category": "Cardio",
         "focus": "Running",
         "exercises": [
-            "Easy Run",
             "Warm-up Walk",
+            "Easy Run",
             "Cool-down Walk",
             ],
         },
